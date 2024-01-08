@@ -66,7 +66,7 @@ const portfolios = [
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    siteUrl: "https://github.com/ZohreScript/Rickmorthy",
   },
   {
     id: "07",
@@ -76,7 +76,7 @@ const portfolios = [
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css",],
-    siteUrl: "localhost",
+    siteUrl: "https://zohrescript.github.io/myportflio/",
   },
 
 ];
