@@ -8,8 +8,8 @@ function Services() {
                 <div className='text-center'>
                     <h2 className='text-headingColor font-[800] text-[2.4rem] mb-5'>What do i help</h2>
                     <p className='lg:max-w-[600px] lg:mx-auto text-headingColor font-[500] text-[600] leading-7'>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, ad pariatur qui a quo cum velit porro nisi necessitatibus soluta distinctio hic, possimus dolorem aliquid itaque consectetur veritatis, tempora in?
-                    </p>
+                    I have a strong understanding of frontend technologies such as HTML, CSS, and JavaScript and have a passion for creating visually appealing and responsive websites.
+I am a team player and have experience working in agile development environments.                    </p>
                 </div>
             </div>
 
@@ -31,7 +31,8 @@ function Services() {
                                             <h3 className='text-primaryColor font-[600] mb-3 group-hover:text-white  text-xl'>
                                                 Frontend Developer
                                             </h3>
-                                            <p className='text-[15px] text-smallTextColor group-hover:text-white  leading-7'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi repellat eaqu ectetur aperiam ullam! Impedit consectetur illo voluptas assumenda est voluptatibus.
+                                            <p className='text-[15px] text-smallTextColor group-hover:text-white  leading-7'>
+ frontend technologies such as: React.js , JS , tailwind css , css , html , and i have strong understand about usereducer and use context and of course redux toolkit
                                             </p>
                                         </div>
                                     </div>
@@ -56,8 +57,8 @@ function Services() {
                                             <h3 className='text-primaryColor font-[600] mb-3 group-hover:text-white  text-xl'>
                                             UIUX Designer
                                             </h3>
-                                            <p className='text-[15px] text-smallTextColor group-hover:text-white  leading-7'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi repellat eaqu ectetur aperiam ullam! Impedit consectetur illo voluptas assumenda est voluptatibus.
-                                            </p>
+                                            <p className='text-[15px] text-smallTextColor group-hover:text-white  leading-7'>
+                                          design  technologies such as:figma, xd                                       </p>
                                         </div>
                                     </div>
                                 </div>

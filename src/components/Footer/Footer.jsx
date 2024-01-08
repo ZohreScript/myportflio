@@ -15,18 +15,20 @@ const Footer = () => {
                     </div>
 
                     <div className="w-full sm:w-1/2">
-                        <p className="text-gray-300 leading-7 mt-4 sm:mt-0">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur, tempore, aut sed inventore recusandae impedit odio, suscipit aspernatur doloremque necessitatibus maxime minima libero error dicta velit voluptatem porro veritatis voluptatum.</p>
+                        <p className="text-gray-300 leading-7 mt-4 sm:mt-0">
+                        I am looking for a new role and would appreciate your support. Thank you in advance for any connections, advice, or opportunities you can offer.
+                        </p>
                         <div className="flex items-center gap-4 flex-wrap md:gap-8 mt-10" >
                             <span className="text-gray-300 font-[600] text-[15px]">Follow Me:</span>
                             <span className="w-[35px] h-[35px] bg-[#2b2d33] p-1 rounded-[50px] cursor-pointer text-center">
-                                <a href="#github" className="text-gray-300 font-[500] text-18px"><i class="ri-github-line"></i></a>
+                                <a href="https://github.com/ZohreScript" className="text-gray-300 font-[500] text-18px"><i class="ri-github-line"></i></a>
                             </span>
 
                             <span className="w-[35px] h-[35px] bg-[#2b2d33] p-1 rounded-[50px] cursor-pointer text-center">
-                                <a href="#instagram" className="text-gray-300 font-[500] text-18px"><i class="ri-instagram-line"></i></a>
+                                <a href="https://www.linkedin.com/in/zohreh-omidi-53531921a/" className="text-gray-300 font-[500] text-18px"><i class="ri-instagram-line"></i></a>
                             </span>
                             <span className="w-[35px] h-[35px] bg-[#2b2d33] p-1 rounded-[50px] cursor-pointer text-center">
-                                <a href="#linkdin" className="text-gray-300 font-[500] text-18px"><i class="ri-linkedin-box-line"></i></a>
+                                <a href="https://www.linkedin.com/in/zohreh-omidi-53531921a/" className="text-gray-300 font-[500] text-18px"><i class="ri-linkedin-box-line"></i></a>
                             </span>
                         </div>
 

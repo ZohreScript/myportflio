@@ -39,28 +39,23 @@ function Hero() {
                             <span>
                                 <i class="ri-apps-line"></i>
                             </span>
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor eum debitis tenetur vitae eos pariatur rem illo corrupti laudantium? Natus laudantium placeat quas molestiae qui accusamus nisi ut, blanditiis facilis.
-                        </p>
+                            I am a highly motivated and ambitious front-end developer with +1 years of experience in developing and implementing user-centric web solutions.  I am always eager to learn new technologies and stay up-to-date with the latest industry trends. I have strong problem-solving skills and can easily adapt to new challenges.                        </p>
 
                         <div className='flex items-center gap-9 m-14'>
                             <span className='text-smallTextColor text-[15px] font-[600]'>
                                 Follow me :
                             </span>
                             <span>
-                                <a href='#github' className='text-smallTextColor text-[18px] font-[600]'>
+                                <a href='https://github.com/ZohreScript' className='text-smallTextColor text-[18px] font-[600]'>
                                     <i class="ri-github-fill"></i>
                                 </a>
                             </span>
                             <span>
-                                <a href='#github' className='text-smallTextColor text-[18px] font-[600]'>
+                                <a href='https://www.linkedin.com/in/zohreh-omidi-53531921a/' className='text-smallTextColor text-[18px] font-[600]'>
                                     <i class="ri-linkedin-box-fill"></i>
                                 </a>
                             </span>
-                            <span>
-                                <a href='#github' className='text-smallTextColor text-[18px] font-[600]'>
-                                    <i class="ri-instagram-fill"></i>
-                                </a>
-                            </span>
+                         
                         </div>
                     </div>
 
