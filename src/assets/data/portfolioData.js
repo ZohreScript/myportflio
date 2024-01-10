@@ -5,6 +5,7 @@ import portfolioImg04 from "../images/portfolio-04.jpg";
 import portfolioImg05 from "../images/portfolio-05.jpg";
 import portfolioImg06 from "../images/portfolio-06.jpg";
 import portfolioImg07 from "../images/portfolio-07.jpg";
+import portfolioImg08 from "../images/portfolio-08.jpg";
 
 const portfolios = [
   {
@@ -14,7 +15,7 @@ const portfolios = [
     title: "Agency Website",
     description:
       "Lorem ipsum dolor sit,saepe!",
-    technologies: ["React", "Tailwind css"],
+    technologies: ["React.js", "Tailwind css"],
     siteUrl: "https://agency-website-orpin.vercel.app/",
   },
   {
@@ -24,7 +25,7 @@ const portfolios = [
     title: "Note Pad",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css"],
+    technologies: ["React.js", "Tailwind css"],
     siteUrl: "https://notepad-ebon.vercel.app/",
   },
   {
@@ -44,7 +45,7 @@ const portfolios = [
     title: "inventory",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "local storage"],
+    technologies: ["React.js", "Tailwind css", "local storage"],
     siteUrl: "https://inventory-rouge.vercel.app/",
   },
 
@@ -65,7 +66,7 @@ const portfolios = [
     title: "movie episodes website",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
+    technologies: ["React.js", "Tailwind css"],
     siteUrl: "https://github.com/ZohreScript/Rickmorthy",
   },
   {
@@ -75,8 +76,18 @@ const portfolios = [
     title: " my portfolio ",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css",],
+    technologies: ["React.js", "Tailwind css",],
     siteUrl: "https://zohrescript.github.io/myportflio/",
+  },
+  {
+    id: "08",
+    imgUrl: portfolioImg08,
+    category: "Web Design",
+    title: " fast food ",
+    description:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
+    technologies: ["React.js", "Tailwind css",],
+    siteUrl: "https://food-opal-ten.vercel.app/",
   },
 
 ];

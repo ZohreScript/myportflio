@@ -65,7 +65,7 @@ const Header = () => {
           {/* menu right */}
           <div className="flex items-center gap-4">
             <button className="flex items-center gap-2 text-smallTextColor font-[600] border border-solid 
-            border-smallTextColor py-2 px-4 rounded-[8px] max-h-[40px] hover:bg-smallTextColor hover:text-white
+            border-smallTextColor py-2 px-0 sm:px-2  rounded-[8px] max-h-[40px] hover:bg-smallTextColor hover:text-white
              ease-in duration-300">
               <i class="ri-send-plane-line"></i>Let's talk
             </button>

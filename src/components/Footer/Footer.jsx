@@ -16,7 +16,7 @@ const Footer = () => {
 
                     <div className="w-full sm:w-1/2">
                         <p className="text-gray-300 leading-7 mt-4 sm:mt-0">
-                        I am looking for a new role and would appreciate your support. Thank you in advance for any connections, advice, or opportunities you can offer.
+                            I am looking for a new role and would appreciate your support. Thank you in advance for any connections, advice, or opportunities you can offer.
                         </p>
                         <div className="flex items-center gap-4 flex-wrap md:gap-8 mt-10" >
                             <span className="text-gray-300 font-[600] text-[15px]">Follow Me:</span>
@@ -51,20 +51,22 @@ const Footer = () => {
             {/* footer bottom */}
             <div className="bg-[#1b1e29] py-3 mt-14">
                 <div className="container">
-                    <div className="flex items-center justify-center sm:justify-between">
-                        <div className="hidden sm:block">
-                            <div className="flex items-center gap-[10px]">
-                                <span className="w-[35px] h-[35px] rounded-full bg-[#3b2d33] text-white font-[500] text-[18px] flex items-center justify-center">ZO</span>
-                                <div className="leading-[20px]">
-                                    <h2 className="text-gray-200 font-[500] text-[18px]" >zohre omidi</h2>
-                                    <p className="text-gray-400 text-[14px] font-[500]" >Frontend Developer</p>
-                                </div>
-                            </div>
-                            <div><p className="text-gray-400 text-[16px]">Copyright 2024 by zo- All right reserved</p></div>
+                <div class="flex items-center justify-center sm:justify-between">
+ 
+    <div class="hidden sm:flex items-center gap-3 ">
+      <span class="w-9 h-9 rounded-full bg-[#3b2d33] text-white font-semibold text-sm flex items-center justify-center">ZO</span>
+      <div class="leading-5">
+        <h2 class="text-gray-200 font-semibold text-sm">zohre omidi</h2>
+        <p class="text-gray-400 text-xs font-semibold">Frontend Developer</p>
+      </div>
+    </div>
+    <div class="mt-3 sm:mt-0">
+      <p class="text-gray-400 text-xs sm:text-right">Copyright 2024 by zo- All rights reserved</p>
+    </div>
 
-                        </div>
+</div>
 
-                    </div>
+
 
                 </div>
 

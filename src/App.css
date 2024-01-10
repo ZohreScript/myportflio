@@ -5,14 +5,22 @@
   margin: 0;
   box-sizing: border-box;
 }
+html, body {
+  overflow-x: hidden;
+}
+
 html{
   scroll-behavior: smooth;
 }
 body{
+  position: relative;
+  overflow-x: hidden;
   font-family: 'Urbanis',sans-serif;
+
 }
 .container{
   max-width: 1170px;
+  
   padding-left: 20px;
   padding-right: 20px;
   margin: auto;
@@ -39,9 +47,9 @@ z-index: 99;
     top: 0;
     left: 0;
     background: #00000086;
-    
     z-index: 100;
     display: none;
+    
     
   }
 .menu ul{

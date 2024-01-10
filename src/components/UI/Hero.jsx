@@ -26,7 +26,7 @@ function Hero() {
                         </h1>
                         <div data-aos="fade-up" data-aos-duration="1800" data-aos-delay="200" className='flex items-center gap-6 mt-7'>
 
-                            <button className='bg-primaryColor text-white font-[500] py-2 px-4 rounded-[8px] hover:font-[500] hover:bg-smallTextColor hover:text-white ease-in duration-700'>
+                            <button className='bg-primaryColor text-white font-[500] p-2 rounded-[8px] hover:font-[500] hover:bg-smallTextColor hover:text-white ease-in duration-700'>
                                 <a href="#contact" className='flex items-center gap-2
                                 '><i class="ri-mail-line"></i>Hire Me</a>
                             </button>

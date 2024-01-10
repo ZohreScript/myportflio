@@ -5,7 +5,7 @@ const Modal = ({ activeID, SetShowModal }) => {
     
     const portfolio = portfolios.find(portfolio => portfolio.id == activeID);
     return (<div className="w-full h-full fixed top-0 left-0 z-10 bg-headingColor bg-opacity-40" onClick={() => SetShowModal(false)}>
-        <div className="  w-6/12 md:max-w-[500px] mt-12  absolute top-1/2 left-1/2 z-20 bg-white rounded-[8px] transform -translate-x-1/2 -translate-y-1/2 p-5
+        <div className="  w-10/12 md:max-w-[500px] mt-12  absolute top-1/2 left-1/2 z-20 bg-white rounded-[8px] transform -translate-x-1/2 -translate-y-1/2 p-5
         ">
             <div>
                 <figure >
