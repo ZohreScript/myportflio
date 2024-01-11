@@ -12,10 +12,7 @@ const Contact = () => {
 
                     <div className='w-full  md:w-1/2 sm:h-[450px] lg:flex items-center bg-primaryColor p-8' >
                         <form className='w-full py-5' action="mailto:z.omidi74@gmail.com">
-                            <div className='mb-5'>
-                                <input type='text' placeholder='Enter Your name' className='w-full p-3 focus:outline-none rounded-[5px]' />
-
-                            </div>
+                           
                             <div className='mb-5'>
                                 <input type='text' placeholder='Enter Your name' className='w-full p-3 focus:outline-none rounded-[5px]' />
 
