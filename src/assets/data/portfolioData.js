@@ -6,6 +6,7 @@ import portfolioImg05 from "../images/portfolio-05.jpg";
 import portfolioImg06 from "../images/portfolio-06.jpg";
 import portfolioImg07 from "../images/portfolio-07.jpg";
 import portfolioImg08 from "../images/portfolio-08.jpg";
+import portfolioImg09 from "../images/portfolio-09.jpg";
 
 const portfolios = [
   {
@@ -89,7 +90,16 @@ const portfolios = [
     technologies: ["React.js", "Tailwind css",],
     siteUrl: "https://food-opal-ten.vercel.app/",
   },
-
+  {
+    id: "09",
+    imgUrl: portfolioImg09,
+    category: "Web Design",
+    title: " wetherApp ",
+    description:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
+    technologies: ["React.js", "Tailwind css",],
+    siteUrl: "https://weather-app-omega-steel.vercel.app/",
+  },
 ];
 
 export default portfolios;
