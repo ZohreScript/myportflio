@@ -47,7 +47,7 @@ const portfolios = [
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React.js", "Tailwind css", "local storage"],
-    siteUrl: "https://inventory-rouge.vercel.app/",
+    siteUrl: "https://zohrescript.github.io/inventory/",
   },
 
   {
