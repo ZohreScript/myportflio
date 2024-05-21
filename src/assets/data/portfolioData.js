@@ -7,6 +7,7 @@ import portfolioImg06 from "../images/portfolio-06.jpg";
 import portfolioImg07 from "../images/portfolio-07.jpg";
 import portfolioImg08 from "../images/portfolio-08.jpg";
 import portfolioImg09 from "../images/portfolio-09.jpg";
+import portfolioImg10 from "../images/portfolioImg10";
 
 const portfolios = [{
         id: "01",
@@ -19,7 +20,7 @@ const portfolios = [{
     },
     {
         id: "02",
-        imgUrl: portfolioImg04,
+        imgUrl: portfolioImg10,
         category: "Web Design",
         title: "Admin Dashboard",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
